@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "XPS",
+      "author": "Photo by XPS on Unsplash",
+      "photo": "https://images.unsplash.com/photo-1593642532781-03e79bf5bec2?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Solen Feyisa",
+      "author": "Photo by Solen Feyissa on Unsplash",
+      "photo": "https://images.unsplash.com/photo-1618423771942-1fa46503a0ca?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Bruna Branco",
+      "author": "Photo by Bruna Branco on Unsplash",
+      "photo": "https://images.unsplash.com/photo-1618449625138-62cb2b8a343a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Bruna Branco",
+      "author": "Photo by Bruna Branco on Unsplash",
+      "photo": "https://images.unsplash.com/photo-1618450483934-db421d2e739c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+    },
+    {
+      "id": 5,
+      "title": "XPS",
+      "author": "Photo by XPS on Unsplash",
+      "photo": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+    },
+    {
+      "id": 6,
+      "title": "XPS",
+      "author": "Photo by XPS on Unsplash",
+      "photo": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80"
+    },
+    {
+      "id": 7,
+      "title": "Greenland",
+      "author": "Photo by Visit Greenland on Unsplash",
+      "photo": "https://images.unsplash.com/photo-1618421770611-922609766ab9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+    },
+    {
+      "id": 10,
+      "title": "Milad B. Fakurian",
+      "author": "Photo by Milad B. Fakurian on Unsplash",
+      "photo": "https://images.unsplash.com/photo-1618472609777-b038f1f04b8d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=659&q=80"
+    },
+    {
+      "id": 8,
+      "title": "Anton Ponomarenko",
+      "author": "Photo by Anton Ponomarenko on Unsplash",
+      "photo": "https://images.unsplash.com/photo-1618483100149-c82bd3adec28?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+    },
+    {
+      "id": 9,
+      "title": "Anna Onishchuk",
+      "author": "Photo by Anna Onishchuk on Unsplash",
+      "photo": "https://images.unsplash.com/photo-1618417759309-bf38129c6e37?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80"
+    }
+   
+  ]
+}

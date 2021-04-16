@@ -1,9 +1,8 @@
-const API = "https://rickandmortyapi.com/api/character/";
+const API = "http://localhost:3000/posts";
 
 const getData = async (id) => {
-  const api_url = id ? `${API}${id}` : API;
   try {
-    const response = await fetch(api_url);
+    const response = await fetch(API);
     const data = await response.json();
     return data;
   } catch (error) {
