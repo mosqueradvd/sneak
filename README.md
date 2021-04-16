@@ -18,6 +18,8 @@ Para correr este projecto debes ejecutar lo siguiente en tu máquina:
 
 ### Live preview:
 
+https://eebq8.sse.codesandbox.io/
+
 ### Screenshots
 
 <p align="center">
