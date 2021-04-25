@@ -1,4 +1,4 @@
-const API = "http://localhost:3000/posts";
+const API = "http://localhost:3000/posts"; // static API "JSON-Server"
 
 const getData = async (id) => {
   try {
